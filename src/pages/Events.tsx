@@ -99,7 +99,7 @@ const Events = () => {
                   view === "Week"
                     ? "bg-transparent border-2 border-red-400 rounded-md text-black"
                     : "text-black"
-                } bg-gray-800 px-3 text-sm font-medium rounded-md  cursor-pointer   ${
+                } bg-red-500  px-3 text-sm font-medium rounded-md  cursor-pointer   ${
                   view === "Month" && "text-white"
                 }`}
               >
