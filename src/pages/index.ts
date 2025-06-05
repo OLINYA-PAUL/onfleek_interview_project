@@ -1,0 +1,10 @@
+export { default as Home } from "./home";
+export { default as UserSetup } from "./UserSetup";
+export { default as VRS } from "./VRS";
+export { default as AppUserManagement } from "./AppUserManagement";
+export { default as BookingManagement } from "./BookingManagement";
+export { default as AdvanceAnalysis } from "./AdvanceAnalysis";
+export { default as AuditTraning } from "./AuditTraning";
+export { default as Transactions } from "./Transactions";
+export { default as Events } from "./Events";
+export { default as AppComponents } from "./AppComponents";
